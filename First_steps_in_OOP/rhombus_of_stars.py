@@ -1,5 +1,6 @@
 n = int(input())
 
+
 def print_row(size, row):
     print(" " * (size - row), "* " * row)
 
