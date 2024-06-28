@@ -21,3 +21,6 @@ def print_rhombus(size):
 
 
 print_rhombus(n)
+
+
+
